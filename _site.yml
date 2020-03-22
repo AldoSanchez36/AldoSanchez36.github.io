@@ -12,13 +12,6 @@ output:
     theme: united
     highlight: textmate
 
-#comandos en terminal
-#git add .
-#git add -A
-#git commit -m "COmenta todos los archivos"
-#git config --gobal user.email "aldotrufa@gmail.com"
-#git config --gobal user.name "AldoSAnchez36"
-#git commit -m "Prueva1"
-#git push origin master      
+  
       
 
